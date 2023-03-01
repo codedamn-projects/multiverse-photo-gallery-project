@@ -27,8 +27,6 @@ The designs are in image formats (sketch and figma designs coming soon).
 
 You will find all the required assets in the `/assets` folder. These include images, fonts, etc.
 
-There is also a `style-guide.html` file containing the information you'll need, such as color palette and font names. Make sure to open this in the browser to see the contents.
-
 ## Submitting solution
 
 Submit your solution on the platform for the rest of the community to see. Find this project [on codedamn projects page]($https://codedamn.com/projects) for tips on how to do this.
