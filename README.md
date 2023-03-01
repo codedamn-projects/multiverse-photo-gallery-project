@@ -21,7 +21,7 @@ Want some support on the challenge? [Join our discord community](https://bit.ly/
 
 ## Where to find everything
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design.
+Your task is to build out the project to the designs inside the `/designs` folder. You will find both a mobile and a desktop version of the design.
 
 The designs are in image formats (sketch and figma designs coming soon).
 
