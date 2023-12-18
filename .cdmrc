@@ -1,2 +1,2 @@
-tabs: ["index.html"]
-terminal-one: static-server -p $PUBLIC_PORT --no-cache
+tabs: ["index.html", "style.css"]
+terminals: ["bun i && clear", "static-server -p $PUBLIC_PORT --no-cache"]
